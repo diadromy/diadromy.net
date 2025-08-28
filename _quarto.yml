@@ -9,7 +9,7 @@ author-meta: "Jeffery C.F. Chan"
 website:
   title: "Diadromy.net"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Quarto Academic Website Template adapted by Jeffery C.F. Chan"
  
   navbar:
     background: light  # You can change the background color here
